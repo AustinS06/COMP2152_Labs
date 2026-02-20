@@ -543,5 +543,5 @@ def main():
 #  TEST YOUR WORK
 # ============================================================
 # After completing Tasks 1-3, uncomment the line below to run:
-# main()
+main()
 # ============================================================
